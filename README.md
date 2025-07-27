@@ -63,9 +63,12 @@ This project is for educational and research purposes only. Contact for collabor
 
 ---
 
-## 🔗 Connect
+## 👥 Team & Contributors
 
-- 📫 Email: [kaverdevaiah@gmail.com] [contactdhanush@proton.me]
-- 🌐 GitHub: [github.com/kaver06](https://github.com/kaver06)
-              [github.com/dhanushscience](https://github.com/dhanushscience)
+- 📧 Email:  
+  • [kaverdevaiah@gmail.com](mailto:kaverdevaiah@gmail.com)  
+  • [contactdhanush@proton.me](mailto:contactdhanush@proton.me)
 
+- 🌐 GitHub:  
+  • [kaver06](https://github.com/kaver06)  
+  • [dhanushscience](https://github.com/dhanushscience)
