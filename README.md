@@ -32,7 +32,7 @@ AGRO-X is an intelligent IoT-based solution designed to safeguard farms from wil
 ---
 
 ## 📁 Repository Structure
-AGRO-X/
+[AGRO-X/
 ├── V1/
 │ ├── Code/ # Arduino-based prototype (Tx/Rx)
 │ ├── Circuit Diagram/ # Transmitter/Receiver schematics (PDF)
@@ -40,7 +40,7 @@ AGRO-X/
 ├── V2/
 │ ├── Code/ # ESP32 integration, full system tests
 │ ├── Circuit Diagram/ # Updated schematics
-│ └── Documentation/ # Reports, business model, UBA proposals
+│ └── Documentation/ # Reports, business model, UBA proposals]
 
 
 ---
